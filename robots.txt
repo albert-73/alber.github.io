@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://albert-73.github.io/sitemap.xml 
