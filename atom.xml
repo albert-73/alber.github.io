@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://albert-73.github.io/atom.xml" rel="self"/>
   <link href="http://albert-73.github.io/"/>
-  <updated>2014-05-05T13:11:18+08:00</updated>
+  <updated>2014-05-05T13:15:36+08:00</updated>
   <id>http://albert-73.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -16,8 +16,17 @@
   <entry>
     <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
     <link href="http://albert-73.github.io/blog/2014/05/05/zombie-ninjas-attack-a-survivors-retrospective.html"/>
-    <updated>2014-05-05T10:48:26+08:00</updated>
+    <updated>2014-05-05T13:14:41+08:00</updated>
     <id>http://albert-73.github.io/blog/2014/05/05/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://albert-73.github.io/blog/2014/05/05/title.html"/>
+    <updated>2014-05-05T13:14:26+08:00</updated>
+    <id>http://albert-73.github.io/blog/2014/05/05/title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
